@@ -8,6 +8,7 @@ Objective: The primary goal of this project is to conduct a descriptive analysis
 Dataset: The dataset includes informational data of issued building permit from city of vancouver over the year 2023 and 2024, containing the following key features:
 
 •	PermitNumber: Unique identifier for each permit
+
 <a src = "https://github.com/DevangAgrawal1991/Data-Analyst-Devang-Agrawal/blob/main/Athena_SQL_result01.png">RESULT</a>
 
 •	PermitNumberCreatedDate: explaining when the permit no. created.
