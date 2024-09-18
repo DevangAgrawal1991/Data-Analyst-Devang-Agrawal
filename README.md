@@ -8,6 +8,7 @@ Objective: The primary goal of this project is to conduct a descriptive analysis
 Dataset: The dataset includes informational data of issued building permit from city of vancouver over the year 2023 and 2024, containing the following key features:
 
 •	PermitNumber: Unique identifier for each permit
+![image](https://github.com/user-attachments/assets/5b14e7c2-ca69-4e14-a0fe-171518187a3e)
 
 •	PermitNumberCreatedDate: explaining when the permit no. created.
 
