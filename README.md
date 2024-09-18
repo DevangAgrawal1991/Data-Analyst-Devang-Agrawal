@@ -5,11 +5,9 @@ Project Title: Understanding property development trends.
 
 Objective: The primary goal of this project is to conduct a descriptive analysis of issued building permit data in city of Vancouver. Through this analysis, we aim to summarize key characteristics of project type, identify trends, and generate insights that can inform prorty development strategies and inventory management.
 
-Dataset: The dataset includes informational data of issued building permit from city of vancouver over the year 2023 and 2024, containing the following key features:
+Dataset: The dataset includes informational data of issued building permit from city of vancouver over the year <a href="2023_issued-building-permits .xlsx">2023</a> and <a href="2024_issued-building-permits.xlsx">2024</a>, containing the following key features:
 
 •	PermitNumber: Unique identifier for each permit
-
-<a href="2023_issued-building-permits .xlsx">RESULT</a>
 
 •	PermitNumberCreatedDate: explaining when the permit no. created.
 
@@ -31,7 +29,7 @@ Dataset: The dataset includes informational data of issued building permit from 
 
 •	Project discription: Describe the details of the project.
 
-**Data Collection**: downloded the data from city of vancouver (https://vancouver.ca/home-property-development.aspx) for 2023 and 2024 and loaded in stored in S3 Landing zone.
+**Data Collection**: downloded the data from city of vancouver (https://vancouver.ca/home-property-development.aspx) for <a href="https://github.com/DevangAgrawal1991/Data-Analyst-Devang-Agrawal/blob/main/2023_issued-building-permits%20.xlsx">2023</a> and <a href="2024_issued-building-permits.xlsx">2024</a> and loaded in stored in S3 Landing zone.
 
 **Data cleaning and structuring**: using Amazone Glue dataBrew to clean and restructur the data by removing missing values, deleting unnecessary columns and changing data type.
 
