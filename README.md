@@ -9,7 +9,7 @@ Dataset: The dataset includes informational data of issued building permit from 
 
 •	PermitNumber: Unique identifier for each permit
 
-<a href="https://github.com/DevangAgrawal1991/Data-Analyst-Devang-Agrawal/blob/main/Athena_SQL_result01.png">RESULT</a>
+<a href="2023_issued-building-permits .xlsx">RESULT</a>
 
 •	PermitNumberCreatedDate: explaining when the permit no. created.
 
