@@ -31,7 +31,7 @@
 
 **Data Collection**: downloded the data from city of vancouver (https://opendata.vancouver.ca/explore/dataset/issued-building-permits/information/) for <a href="2023_issued-building-permits .xlsx">2023</a> and <a href="2024_issued-building-permits.xlsx">2024</a> and loaded in stored in S3 Landing zone (<a href="S3 Storage design-2023.png">2023_Landing</a>, <a href="S3 Storage design-2024.png">2024_Landing</a>) with <a href="SS-S3_data protection encryption enabled.png"> data protection</a>.
 
-**Data cleaning and structuring**: Used **Amazone Glue dataBrew** ((<a href="S3 Storage design-2023.png">2023_Gluedatabew</a>, <a href="S3 Storage design-2024.png">2024_Gluedatabrew</a>) to clean and restructur the data by removing missing values, deleting unnecessary columns and changing data type.
+**Data cleaning and structuring**: Used **Amazone Glue dataBrew** ((<a href="Cleaning and restructuring_01.png">2023_Gluedatabew</a>, <a href="Cleaning and restructuring_2024.png">2024_Gluedatabrew</a>) to clean and restructur the data by removing missing values, deleting unnecessary columns and changing data type.
 
 **Data Privacy and Data Quality**: Used **Amazone Glue** (<a href="DQDP_2023.png">2023_DQDP</a>, <a href="DQDP_2024.png">2024_DQDP</a>) to maintain data privacy and high data quality.
 
